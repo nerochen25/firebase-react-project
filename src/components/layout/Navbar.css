@@ -1,0 +1,8 @@
+.navbar {
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.brand-logo .logo-image {
+    width:100px;
+}
